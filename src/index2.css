@@ -1,0 +1,19 @@
+.btn-primary{
+     background-color: #e46418;
+     color: white;
+    border: 0px;
+}
+.btn-danger{ 
+   border: 0px;
+}
+.btn-m{
+    margin-left: 10px!important;
+}
+.box-shadow{
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+}
+.image-view{
+    height: 80px;
+    width: 100px;
+    border-radius: 5px;
+}
